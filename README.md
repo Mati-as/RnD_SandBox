@@ -1,6 +1,7 @@
-# ComputerGraphics
-Network와 Databaase 학습자료를 모아놓는 곳입니다.
+# 개요
+각종 공부할것들을 모아놓은 RnD_SandBox입니다.
 
-- goal
-  - 정보처리기사를 대비 관련 이론을 우선순위로합니다.
-  - 따로 공부한 것들을 후순위로 올립니다. 정보처리기사이론과 관련이 있으나 심화되거나 직접적으로 관련이 없는것들을 따로 정리합니다.  
+현재폴더현황
+- GameServer
+- Eng writing
+
