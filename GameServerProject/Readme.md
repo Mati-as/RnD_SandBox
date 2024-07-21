@@ -2,20 +2,17 @@
 
 	- 7월 3일 (수): 컴파일러 최적화 (11분), 캐시 이론 (17분)
 	- **7월 4일 (목): 메모리 배리어 (18분), Interlocked (22분)**
+	- - **7월 5일 (금): Lock 기초 (13분), DeadLock (19분)**
+	- - **7월 8일 (월): Lock 구현 이론 (9분), SpinLock (21분)**
+	- - **7월 9일 (화): Context Switching (14분), AutoResetEvent (14분)**
 -
-
-- **7월 5일 (금): Lock 기초 (13분), DeadLock (19분)**
-
-
-- **7월 8일 (월): Lock 구현 이론 (9분), SpinLock (21분)**
-- **7월 9일 (화): Context Switching (14분), AutoResetEvent (14분)**
+ 
 - **7월 10일 (수): ReaderWriterLock (15분), ReaderWriterLock 구현 연습 (28분)**
 - **7월 11일 (목): Thread Local Storage (23분)**
 
 **네트워크 프로그래밍:**
 
 - **7월 12일 (금): 네트워크 기초 이론 (13분), 통신 모델 (16분)**
-
 - **7월 15일 (월): 소켓 프로그래밍 입문 #1 (11분), 소켓 프로그래밍 입문 #2 (24분)**
 - **7월 16일 (화): Listener (27분), Session #1 (24분)**
 - **7월 17일 (수): Session #2 (22분), Session #3 (19분)**
