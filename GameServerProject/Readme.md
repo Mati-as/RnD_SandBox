@@ -5,10 +5,11 @@
 	- - **7월 5일 (금): Lock 기초 (13분), DeadLock (19분)**
 	- - **7월 8일 (월): Lock 구현 이론 (9분), SpinLock (21분)**
 	- - **7월 9일 (화): Context Switching (14분), AutoResetEvent (14분)**
+	- - **7월 10일 (수): ReaderWriterLock (15분), ReaderWriterLock 구현 연습 (28분)**
+	- **7월 11일 (목): Thread Local Storage (23분)**
 -
  
-- **7월 10일 (수): ReaderWriterLock (15분), ReaderWriterLock 구현 연습 (28분)**
-- **7월 11일 (목): Thread Local Storage (23분)**
+
 
 **네트워크 프로그래밍:**
 
