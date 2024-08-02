@@ -1,0 +1,9 @@
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.deps.json
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfo.cs
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\gongm\OneDrive\Desktop\Rnd_Box\RnD_SandBox\PacketSession\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.pdb

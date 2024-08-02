@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/gERduWVufhglLHcqOxyfHSp9IRaUcC06MCaw3Js/3GiNOs318mWfaPmkEONjDhyg48TnSmSWyb1VzjZa7BrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gongm\\OneDrive\\Desktop\\Rnd_Box\\RnD_SandBox\\PacketSession\\DummyClient\\DummyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gongm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gongm\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gongm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gongm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
